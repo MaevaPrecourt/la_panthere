@@ -90,9 +90,11 @@ a:hover {
     right: 0;
 }
 
-.texture-paper::before {
-    background: url("img/texture-paper.webp");
+#bloc-6::before {
+    background-color: #F3976C;
+    background-image: url("img/texture-paper.png");
     background-size: 280px 280px;
+    opacity: 1;
 }
 
 .b-parallax {
@@ -476,7 +478,8 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    color: rgb(55, 55, 55);
+    font-size: 19px!important;
 }
 
 .icon-lg {
