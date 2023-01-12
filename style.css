@@ -4,6 +4,21 @@
     padding-left: 12.5px;
 }
 
+.col-sm-4 ul {
+    margin-top: 15px!important;
+}
+
+.col-sm-4 ul li {
+    height: 48px;
+    width: 48px;
+}
+
+#logo {
+    border-radius: 40%;
+    height: 100px;
+    width: 100px;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -141,7 +156,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgb(55, 55, 55);
 }
 
 .d-bloc .a-btn:hover,
