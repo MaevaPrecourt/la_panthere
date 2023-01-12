@@ -1,3 +1,9 @@
+.col-sm-12 p {
+    color: rgb(55, 55, 55)!important;
+    font-size: 18px;
+    padding-left: 12.5px;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -775,10 +781,11 @@ h4 {
 
 .bgc-atomic-tangerine {
     background-color: #F3976C;
+    color: #000!important;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFF!important;
 }
 
 .btn-atomic-tangerine {
